@@ -47,3 +47,23 @@
   border-radius: 10px;
   display: inline-block;
 }
+
+.navbar{
+  margin: 30px 0;
+}
+
+.search__bar{
+  padding: 15px 0 15px 10px;
+  border: 1px solid silver;
+  min-width: 350px;
+  outline: none;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.navbar__search button {
+  padding: 15px 20px;
+  background: rgb(103, 103, 230);
+  border-radius: 10px;
+  color: #fff;
+}
